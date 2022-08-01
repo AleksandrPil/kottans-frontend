@@ -4,7 +4,7 @@
 <details>
   <summary>Srcreenshots</summary>
 
-  <img src = "">
+  <img src = "./images/Udacity%20Git%20Course%201.jpg">
     
 </details>
 
