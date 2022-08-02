@@ -1,8 +1,8 @@
 # kottans-frontend
 ## General
-## 0. [Git Basics](tasks/git-intro.md)
 ---
-## Git та GiHub
+## 0. Git Basics
+### Git та GiHub
 1. [x] Version Control with Git (Udacity)
 <details>
   <summary>Srcreenshots</summary>
@@ -21,11 +21,11 @@
 
 ---
 
-раніше вважав, що GitHub Desktop - це і є Git, але ні :), для мене Git зовсім нове.
-здивувало, що за допомогою декілька команд у Git, можна багато чтго зробити.
-Some Git commands are:
+* раніше вважав, що GitHub Desktop - це і є Git, але ні :), для мене Git зовсім нове.
+* здивувало, що за допомогою декілька команд у Git, можна багато чтго зробити.
+* Some Git commands are:
 
- git init * *створити новий репозиторій* *
+ * git init * *створити новий репозиторій* *
  * git clone <path-to-repository-to-clone> * *клонувати репозиторій* *
  * git status * *визначити статус репозиторію* *
  * git log * *відобразити коміти сховища* *
@@ -60,4 +60,15 @@ Some Git commands are:
   .gitignore
   fileName
   
-  [Linux CLI and Networking](tasks/linux-cli-http.md)
+  ## 1. Linux CLI and Networking
+  ### Linux, Command Line, HTTP Tools
+  1. [ ] Linux Survival (4 modules)
+  2. [ ] HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1
+  3. [ ] HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2
+  
+  ---
+  ## 2. VCS (hello gitty), GitHub and Collaboration
+  ### Git для командної співпраці
+  1. [ ] Introduction to Git and GitHub (тижні 3 і 4 курсу)
+  2. [ ] Learngitbranching
+  
