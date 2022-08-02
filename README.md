@@ -20,43 +20,48 @@
 </details>
 
 ---
-
 * раніше вважав, що GitHub Desktop - це і є Git, але ні :), для мене Git зовсім нове.
 * здивувало, що за допомогою декілька команд у Git, можна багато чтго зробити.
-* Some Git commands are:
-
- * git init * *створити новий репозиторій* *
- * git clone <path-to-repository-to-clone> * *клонувати репозиторій* *
- * git status * *визначити статус репозиторію* *
- * git log * *відобразити коміти сховища* *
- * git log --one line * *однією лінією* *
- * git log --stat * *перегляд змінених файлів* *
- * git log -p * *перегляд змін у файлі* *
- * git log -p --stat * *скільки файлів було змінено і кількість змінених рядків* *
- * git log -p -w * *ігнорувати пробіли* * 
- * git add <file1> <file2> ... <fileN> * *переміщення файлів із робочого каталогу до проміжного індексу* *
- * gid add . * *додати все* *
- * git show  * *показати комміт* *
- * git commit -m "My commit" * *додати комміт до репо* *
- * git diff * *перегляд внесених але ще не зафіксованих змін* *
- * git tag -a <tagName> -m "my version 1.4" * *додати таг до комміту* *
- * git tag -d <tagName> * *видалити таг* *
- * git branch * *список гілок у сховищі* *
- * git branch <branchName> <SHA> * *створити гілку* *
- * git branch -d <branchName> * *видалити гілку* *
- * git checkout <branchName> * *перейти на гілку* *
- * git log --oneline --decorate * *відображення гілок* *
- * git checkout -b footer master * *створити нову гілку та переключитися на неї* *
- * git log --oneline --decorate --graph --all * *переглянути всі гілки одразу* *
- * git reset --hard HEAD^ * *скасувати злиття* *
- * git merge <name-of-branch-to-merge-in> * *злиття гілок* *
- * git commit --amend * *зміна останнього комітту* *
- * git revert <SHA-of-commit-to-revert> * *повернення комміту* *
- * git reflog * *отримати доступ до стертого вмісту* *
- * git reset <reference-to-commit> * *скидання (стертя) комміту* *
- * git reset --mixed * *візьме зміни, внесені в комміт і перемістить їх до робочого каталогу* *
- * git reset --soft * *візьме зміни, внесені в комміт і перемістить їх до індекcу проміжку* *
- * git reset --hard * *візьме зміни, внесені в комміт і зітре їх* *
+* Git commands:
+   - git init - _створити новий репозиторій_
+   - git clone <path-to-repository-to-clone> - _клонувати репозиторій_
+   - git status - _визначити статус репозиторію_
+   - git log - _відобразити коміти сховища_
+   - git log --one line - _однією лінією_
+   - git log --stat - _перегляд змінених файлів_
+   - git log -p - _перегляд змін у файлі_
+   - git log -p - --stat _скільки файлів було змінено і кількість змінених рядків_
+   - git log -p -w - _ігнорувати пробіли_ 
+   - git add <file1> <file2> ... <fileN> - _переміщення файлів із робочого каталогу до проміжного індексу_
+   - gid add . - _додати все_
+   - git show -  _показати комміт_
+   - git commit -m "My commit" - _додати комміт до репо_
+   - git fetch - _витягує дані з віддаленого репозиторію_
+   - git pull - _витягує дані з віддаленого репозиторію та робить мердж (merge)_
+   - git push - _використовується для надсилання локальних змін на вказаний віддалений репозиторій_
+   - git rebase - _бере кілька комітів, "копіює" їх, й кладе їх в інше місце_
+   - git cherry-pick <Коміт1> <Коміт2> <...> - _копіює серію комітів до поточного розташування (HEAD)_
+  
+  
+   - git diff - _перегляд внесених але ще не зафіксованих змін_
+   - git tag -a <tagName> -m "my version 1.4" - _додати таг до комміту_
+   - git tag -d <tagName> - _видалити таг_
+   - git branch - _список гілок у сховищі_
+   - git branch <branchName> <SHA> - _створити гілку_
+   - git branch -d <branchName> - _видалити гілку_
+   - git checkout <branchName> - _перейти на гілку_
+   - git log --oneline --decorate - _відображення гілок_
+   - git checkout -b footer master - _створити нову гілку та переключитися на неї_
+   - git log --oneline --decorate --graph --all - _переглянути всі гілки одразу_
+   - git reset --hard HEAD^ - _скасувати злиття_
+   - git merge <name-of-branch-to-merge-in> - _злиття гілок_
+   - git commit --amend - _зміна останнього комітту_
+   - git revert <SHA-of-commit-to-revert> - _повернення комміту_
+   - git reflog - _отримати доступ до стертого вмісту_
+   - git reset <reference-to-commit> - _скидання (стертя) комміту_
+   - git reset --mixed - _візьме зміни, внесені в комміт і перемістить їх до робочого каталогу_
+   - git reset --soft - _візьме зміни, внесені в комміт і перемістить їх до індекcу проміжку_
+   - git reset --hard - _візьме зміни, внесені в комміт і зітре їх_
   .gitignore
   fileName
   
