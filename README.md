@@ -8,8 +8,6 @@
   <summary>Srcreenshots</summary>
   <img src = "./images/Udacity%20Git%20Course%201.jpg">
   <img src = "./images/Udacity%20Git%20Course.jpg">
-  <img src = "./images/learngitbranching%201.jpg">
-  <img src = "./images/learngitbranching%202.jpg">
 </details>
 
 2. [x] Learngitbranching
