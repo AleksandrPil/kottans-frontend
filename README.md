@@ -1,6 +1,5 @@
 # kottans-frontend
 ## General
----
 ## 0. Git Basics
 ### Git та GiHub
 1. [x] Version Control with Git (Udacity)
