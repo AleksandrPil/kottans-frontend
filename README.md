@@ -63,7 +63,7 @@
   .gitignore
   fileName
   
-  ## 1. Linux CLI and Networking
+  ## 1. Linux CLI, and HTTP
   ### Linux, Command Line, HTTP Tools
   1. [ ] Linux Survival (4 modules)
   2. [ ] HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1
