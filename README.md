@@ -67,17 +67,23 @@
   fileName
   </details>
   
-  ## 1. Linux CLI, and HTTP
-  ### Linux, Command Line, HTTP Tools
+## 1. Linux CLI, and HTTP
+ ### Linux, Command Line, HTTP Tools
   1. [x] Linux Survival (4 modules)
   2. [ ] HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1
   3. [ ] HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2
   
-  
+  <details>
+  <summary>Screenshot of completed lessons</summary>
+  <img src = "./task_linux_cli/Linux Quiz 1.jpg">
+  <img src = "./task_linux_cli/Linux Quiz 2.jpg">
+  <img src = "./task_linux_cli/Linux Quiz 3.jpg">
+  <img src = "./task_linux_cli/Linux Quiz 4.jpg">
+  </details>
   
   ---
+  * Linux для мене зовсім нове, аде все зрозуміло :)
   * файлова система Linux схожа з Microsoft Windows
-  *
   * Basic Linux commands:
   <details>
     <summary>Linux commands</summary>
