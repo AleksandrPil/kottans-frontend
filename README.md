@@ -22,7 +22,7 @@
 ---
 * раніше вважав, що GitHub Desktop - це і є Git, але ні :), для мене Git зовсім нове.
 * здивувало, що за допомогою декілька команд у Git, можна багато чтго зробити.
-* basic Git commands:
+* Basic Git commands:
 <details>
   <summary>Git commands</summary>
   
@@ -69,9 +69,44 @@
   
   ## 1. Linux CLI, and HTTP
   ### Linux, Command Line, HTTP Tools
-  1. [ ] Linux Survival (4 modules)
+  1. [x] Linux Survival (4 modules)
   2. [ ] HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1
   3. [ ] HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2
+  
+  
+  
+  ---
+  * файлова система Linux схожа з Microsoft Windows
+  *
+  * Basic Linux commands:
+  <details>
+    <summary>Linux commands</summary>
+    
+   - ls - _використовується для перерахування вмісту каталогу_
+   - ls -l - _використовується для перерахування довгого списку_
+   - more - _відображення вмісту файлу_
+   - mkdir -> name of directory (make directory) - _создание каталога_
+   - mv file _name_ -> _name_ directory (move) - _переміщення файлів_
+   - mv file _name_ -> _name_ of new file - _ця команда також є перейменуванням файлів_
+   - cd -> _name_ directory - _зміна каталогу_
+   - pwd (print working directory) - _місцезнаходження у структурі каталогу_
+   - cp (copy) - _копіювання_
+   - rm - _видалення файлу_
+   - rmdir (remove directory) - _видалення каталогу_
+   - rm -r - _видалення дерева каталогів_
+   - chmod (change mode) - _використовується для зміни дозволів безпеки для файлів_
+   - ~ - _домашній каталог_
+   - man (manual) - _визначити ідентифікатор користувача_
+   - find - _використовується для пошуку файлів_
+   - cat - _об'єднання файлів_
+   - df (disk free) - _скільки дискового простору залишилося у вашій системі_
+   - ps (process status) - _використовується для перевірки запущених програм/процесів_
+   - ps aux - _детальний список усіх процесів_
+   - grep - _використовувати, щоб знайти шаблони в даних_
+   - ps aux | grep ... - 
+   - kill PID (PID - ID процесу) - _припинення процесу_
+   - kill -9 PID - _щоб наказати процесу негайно припинити роботу_
+   </details>
   
   ---
   ## 2. VCS (hello gitty), GitHub and Collaboration
