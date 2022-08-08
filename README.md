@@ -22,7 +22,10 @@
 ---
 * раніше вважав, що GitHub Desktop - це і є Git, але ні :), для мене Git зовсім нове.
 * здивувало, що за допомогою декілька команд у Git, можна багато чтго зробити.
-* Git commands:
+* basic Git commands:
+<details>
+  <summary>Git commands</summary>
+  
    - git init - _створити новий репозиторій_
    - git clone <path-to-repository-to-clone> - _клонувати репозиторій_
    - git status - _визначити статус репозиторію_
@@ -62,6 +65,7 @@
    - git reset --hard - _візьме зміни, внесені в комміт і зітре їх_
   .gitignore
   fileName
+  </details>
   
   ## 1. Linux CLI, and HTTP
   ### Linux, Command Line, HTTP Tools
