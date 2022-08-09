@@ -71,7 +71,7 @@
   3. [x] HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2
   
   Screenshot of completed lessons:
-  
+
 <details>
   <summary>Quiz 1</summary>
   <img src = "./task_linux_cli/Linux Quiz 1.jpg">
@@ -86,7 +86,7 @@
   <summary>Quiz 3</summary>
   <img src = "./task_linux_cli/Linux Quiz 3.jpg">
 </details>
-    
+
 <details>
   <summary>Quiz 4</summary>
   <img src = "./task_linux_cli/Linux Quiz 4.jpg">
