@@ -5,15 +5,15 @@
 1. [x] Version Control with Git (Udacity)
 <details>
   <summary>Srcreenshots</summary>
-  <img src = "./images/Udacity%20Git%20Course%201.jpg">
-  <img src = "./images/Udacity%20Git%20Course.jpg">
+  <img src = "./images/Udacity Git Course 1.jpg">
+  <img src = "./images/Udacity Git Course.jpg">
 </details>
 
 2. [x] Learngitbranching
 <details>
   <summary>Srcreenshots</summary>
-  <img src = "./images/learngitbranching%201.jpg">
-  <img src = "./images/learngitbranching%202.jpg">
+  <img src = "./images/learngitbranching 1.jpg">
+  <img src = "./images/learngitbranching 2.jpg">
 </details>
 
 ---
@@ -67,8 +67,8 @@
 ## 1. Linux CLI, and HTTP
  ### Linux, Command Line, HTTP Tools
   1. [x] Linux Survival (4 modules)
-  2. [ ] HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1
-  3. [ ] HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2
+  2. [x] HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1
+  3. [x] HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2
   
   <details>
   <summary>Screenshot of completed lessons</summary>
