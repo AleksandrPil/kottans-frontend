@@ -70,13 +70,27 @@
   2. [x] HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1
   3. [x] HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2
   
-  <details>
-  <summary>Screenshot of completed lessons</summary>
+  Screenshot of completed lessons:
+  
+<details>
+  <summary>Quiz 1</summary>
   <img src = "./task_linux_cli/Linux Quiz 1.jpg">
+</details>
+
+<details>
+  <summary>Quiz 2</summary>
   <img src = "./task_linux_cli/Linux Quiz 2.jpg">
+</details>
+
+<details>
+  <summary>Quiz 3</summary>
   <img src = "./task_linux_cli/Linux Quiz 3.jpg">
+</details>
+    
+<details>
+  <summary>Quiz 4</summary>
   <img src = "./task_linux_cli/Linux Quiz 4.jpg">
-  </details>
+</details>
   
   ---
   * Linux для мене зовсім нове, аде все зрозуміло :)
