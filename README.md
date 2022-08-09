@@ -19,7 +19,7 @@
 ---
 * раніше вважав, що GitHub Desktop - це і є Git, але ні :), для мене Git зовсім нове.
 * здивувало, що за допомогою декілька команд у Git, можна багато чтго зробити.
-* Basic Git commands:
+* Деякі команди Git:
 <details>
   <summary>Git commands</summary>
   
@@ -93,9 +93,9 @@
 </details>
   
   ---
-  * Linux для мене зовсім нове, аде все зрозуміло :)
-  * файлова система Linux схожа з Microsoft Windows
-  * Basic Linux commands:
+  * Linux для мене зовсім нова система, але все зрозуміло, з першим та другим Quiz було не складно, а ось з третім та четвертим треба було подумати :)
+  * Файлова система Linux схожа з Microsoft Windows, також нагадала мені Git.
+  * Деякі команди Linux:
   <details>
     <summary>Linux commands</summary>
     
