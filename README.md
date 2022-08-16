@@ -126,8 +126,22 @@
    </details>
   
   ---
-  ## 2. VCS (hello gitty), GitHub and Collaboration
+  ## Git Collaboration
   ### Git для командної співпраці
-  1. [ ] Introduction to Git and GitHub (тижні 3 і 4 курсу)
-  2. [ ] Learngitbranching
+  1. [x] Introduction to Git and GitHub (тижні 3 і 4 курсу)
+  2. [x] Learngitbranching
+  
+  Screenshots of completed lessons:
+
+<details>
+  <summary>Introduction to Git and GitHub</summary>
+  <img src = "./task_git_collaboration/Introduction to Git and GitHub week 3.jpg">
+  <img src = "./task_git_collaboration/Introduction to Git and GitHub week 4.jpg">
+</details>
+
+<details>
+  <summary>Learngitbranching</summary>
+  <img src = "./task_git_collaboration/learngitbranching 1.jpg">
+  <img src = "./task_git_collaboration/learngitbranching_3.jpg">
+</details>
   
