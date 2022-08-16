@@ -144,4 +144,9 @@
   <img src = "./task_git_collaboration/learngitbranching 1.jpg">
   <img src = "./task_git_collaboration/learngitbranching_3.jpg">
 </details>
+
+## 3. Intro to HTML and CSS
+1. [ ] Introduction to Responsive Design
+2. [ ] Learn HTML
+3. [ ] Learn CSS
   
