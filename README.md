@@ -145,6 +145,7 @@
   <img src = "./task_git_collaboration/learngitbranching_3.jpg">
 </details>
 
+# Front-End Basics
 ## 3. Intro to HTML and CSS
 1. [ ] Introduction to Responsive Design
 2. [ ] Learn HTML
