@@ -126,7 +126,7 @@
    </details>
   
   ---
-  ## Git Collaboration
+  ## 2. Git Collaboration
   ### Git для командної співпраці
   1. [x] Introduction to Git and GitHub (тижні 3 і 4 курсу)
   2. [x] Learngitbranching
